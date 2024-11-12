@@ -1,0 +1,13 @@
+package com.appQ;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AppQApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
